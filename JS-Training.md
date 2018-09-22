@@ -1,6 +1,61 @@
 # JavaScript Essential
 
+![js-img](img/js-img.png)
+
 ## Hands on training
+
+### Materi Cover
+
+#### Intro.
+
+1. Pengantar.
+2. Apa itu JavaScript.
+3. Bagaiaman JavaScript bekerja.
+4. JavaScript Console.
+5. Object dalam JavaScript.
+6. JavaScript Syntax
+    
+#### Basic Syntax.
+
+7. Primitive Data.
+8. Variable, Constant & Assigment.
+9. Arithmetic Operator & BODMAS (Bracket pOwers() )
+10. Assignment Operator.
+11. Code Editor & Debugging.
+12. Function or Subroutine.
+13. Object & Array
+14. Embedding Object & Array.
+15. Member Access.
+16. Computed Member Access.
+17. Member Creation, Assignment & Deletion.
+18. Array Modification.
+19. Callable Object.
+20. Memory Hoisting.
+21. Scope & Closures.
+22. Inferred Global & Scope.
+23. This Context.
+24. Constructor.
+25. Prototype.
+26. Constructor with Prototype.
+
+#### Comparison & Conditional Execution.
+
+27. Comparison Operator.
+28. If Statement.
+29. For & For In Loop.
+30. Let ES6.
+
+#### DOM Manipulation.
+
+31. Understanding the Document Object Model.
+32. Targeting DOM Element.
+33. Changing Element Content.
+34. Changing Element Style.
+35. Event Handlers.
+36. Create & appendChild & insertBefore method.
+37. Project.
+
+<br>
 
 ### Hello world
 
@@ -46,40 +101,40 @@
 
 ### macam operator aritmetik
 
-//+ 
-//-
-///
-//%
-//++ --> increment
-//-- --> decrement
+	//+ 
+	//-
+	///
+	//%
+	//++ --> increment
+	//-- --> decrement
 
-// assigmment operator
+	// assigmment operator
 
-//Operator  Contoh 				Sama seperti
-//=					x = y					x = y
-//+= 				x += y				x = x + y
-//-= 				x -= y				x = x - y
-//*=				x *= y				x = x * y
-///= 				x /= y 				x = x / y
-//%=				X %= y				x = x % y
+	//Operator  Contoh 				Sama seperti
+	//=					x = y					x = y
+	//+= 				x += y				x = x + y
+	//-= 				x -= y				x = x - y
+	//*=				x *= y				x = x * y
+	///= 				x /= y 				x = x / y
+	//%=				X %= y				x = x % y
 
-//var x = 10;
-//x += 5;
-//console.log(x);
+	//var x = 10;
+	//x += 5;
+	//console.log(x);
 
-// String Operator
+	// String Operator
 
-//text1 = "Dyo";
-//text2 = "Bumi";
-//text3 = text1 + " " + text2;
-//console.log(text3);
+	//text1 = "Dyo";
+	//text2 = "Bumi";
+	//text3 = text1 + " " + text2;
+	//console.log(text3);
 
-//x = 5 + 5;
-//y = "5" + 5;
-//z = "Hello" + 5;
-//console.log(x); 
-//console.log(y);
-//console.log(z);
+	//x = 5 + 5;
+	//y = "5" + 5;
+	//z = "Hello" + 5;
+	//console.log(x); 
+	//console.log(y);
+	//console.log(z);
 
 ### Comparison Operator
 
